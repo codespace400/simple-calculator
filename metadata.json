@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "Clean, modern dark-themed calculator app UI with swipe-down history panel, haptic feedback, and custom settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

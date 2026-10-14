@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="history_title">Calculation History</string>
+    <string name="clear_history">Clear History</string>
+    <string name="no_history">No calculations yet</string>
+    <string name="no_history_subtitle">Swipe down on the display or calculate something new</string>
+    <string name="settings_title">Settings</string>
+    <string name="dark_mode">Dark Theme</string>
+    <string name="dark_mode_desc">Use sleek dark mode with vibrant orange accents</string>
+    <string name="haptic_feedback">Haptic Feedback</string>
+    <string name="haptic_feedback_desc">Vibrate on button taps</string>
+    <string name="decimal_precision">Decimal Precision</string>
+    <string name="decimal_precision_desc">Maximum decimal digits in calculations</string>
+    <string name="swipe_down_hint">Swipe down for history</string>
+    <string name="reuse_expression">Use Expression</string>
+    <string name="reuse_result">Use Result</string>
+    <string name="close">Close</string>
+</resources>
